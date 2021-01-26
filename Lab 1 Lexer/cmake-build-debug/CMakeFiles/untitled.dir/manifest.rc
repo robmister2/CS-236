@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/rsmith10/CLionProjects/Lab 1 Lexer/cmake-build-debug/CMakeFiles/untitled.dir/embed.manifest"
